@@ -4,9 +4,9 @@
  * This JavaScript module provides the validation methods for the built-in validators.
  *
  */
- var yiibr = (typeof yiibr == "undefined" || !yiibr)? {} : yiibr;
+ var yiiJeff = (typeof yiiJeff == "undefined" || !yiiJeff)? {} : yiiJeff;
 
-    yiibr.validation = (function($) {
+    yiiJeff.validation = (function($) {
     var pub = {
         isEmpty: function(value) {
             return value === null || value === undefined || value == [] || value === '';

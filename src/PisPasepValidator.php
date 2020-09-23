@@ -61,7 +61,7 @@ class PisPasepValidator extends DocumentValidator
         }
 
         ValidationAsset::register($view);
-        return 'validation.pis(value, messages, ' . Json::encode($options) . ');';
+        return 'yiiJeff.validation.pis(value, messages, ' . Json::encode($options) . ');';
     }
 
 }

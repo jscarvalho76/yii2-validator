@@ -1,8 +1,5 @@
 <?php
-/**
- * @link https://github.com/yiibr/yii2-br-validator
- * @license https://github.com/yiibr/yii2-br-validator/blob/master/LICENSE
- */
+
 
 namespace jeffersoncarvalho\validator;
 
@@ -13,7 +10,7 @@ class ValidationAsset extends AssetBundle
 {
     public $sourcePath = '@jeffersoncarvalho/validator/assets';
     public $js = [
-        'validation.js',
+        'yiiJeff.validation.js',
     ];
     public $depends = [
         'yii\web\YiiAsset',
