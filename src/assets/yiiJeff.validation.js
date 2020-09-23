@@ -35,7 +35,7 @@
                 var sum = (3 * pis[0]) + (2 * pis[1]) + (9 * pis[2]) + (8 * pis[3]) + (7 * pis[4]) + (6 * pis[5]) +
                           (5 * pis[6]) + (4 * pis[7]) + (3 * pis[8]) + (2 * pis[9]);
 
-                var digitoVerificador = (11 - (sum/11));
+                var digitoVerificador = (11 - (sum % 11));
                     
                 if(digitoVerificador === 10 || digitoVerificador === 11){
                     digitoVerificador = 0;
