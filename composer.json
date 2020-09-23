@@ -4,6 +4,7 @@
   "keywords": ["yii", "validator", "model", "brasil", "brazil", "br", "pis/pasep"],
   "type": "yii2-extension",
   "license": "MIT",
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Jefferson Carvalho",
@@ -15,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "jeffersoncarvalho\\validator\\": ["src"]
+      "jeffersoncarvalho\\validator\\": "src"
     }
   }
 }
