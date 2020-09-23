@@ -1,14 +1,14 @@
 {
   "name": "jeffersoncarvalho/validator",
   "description": "Provide validations and features for brazilian localization",
-  "keywords": ["yii", "validator", "model", "brasil", "brazil", "br", "pis/pasep"],
+  "keywords": ["yii", "validator", "model", "brasil", "brazil", "br", "pis pasep"],
   "type": "yii2-extension",
   "license": "MIT",
   "minimum-stability": "stable",
   "authors": [
     {
       "name": "Jefferson Carvalho",
-      "email": "http://www.jeffersoncarvalho.com.br/"
+      "homepage": "http://www.jeffersoncarvalho.com.br/"
     }
   ],
   "require": {
