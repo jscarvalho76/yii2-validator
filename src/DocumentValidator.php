@@ -21,5 +21,4 @@ class DocumentValidator extends Validator {
         }
         parent::validateAttribute($model, $attribute);
     }
-
 }
