@@ -5,8 +5,9 @@ Yii2 Extension - validador de PIS/Pasep para Brasil
 * Pis
 
 [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](http://www.yiiframework.com/)
-[![Latest Stable Version](https://poser.pugx.org/yiibr/yii2-br-validator/v/stable.png)](https://packagist.org/packages/jeffersoncarvalho/yii2-validator)
-[![Total Downloads](https://poser.pugx.org/yiibr/yii2-br-validator/downloads.png)](https://packagist.org/packages/jeffersoncarvalho/yii2-validator)
+[![Latest Stable Version](https://poser.pugx.org/jeffersoncarvalho/validator/v)](//packagist.org/packages/jeffersoncarvalho/validator)
+[![Total Downloads](https://poser.pugx.org/jeffersoncarvalho/validator/downloads)](//packagist.org/packages/jeffersoncarvalho/validator)
+[![Version](https://poser.pugx.org/jeffersoncarvalho/validator/version)](//packagist.org/packages/jeffersoncarvalho/validator)
 
 ## Installation with Composer
 If you're using Composer to manage dependencies, you can use
