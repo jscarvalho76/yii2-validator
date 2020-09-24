@@ -1,10 +1,8 @@
 <?php
 
-
 namespace jeffersoncarvalho\validator;
 
 use yii\web\AssetBundle;
-
 
 class ValidationAsset extends AssetBundle
 {
