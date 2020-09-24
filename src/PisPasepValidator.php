@@ -5,11 +5,6 @@ namespace jeffersoncarvalho\validator;
 use yii\helpers\Json;
 use Yii;
 
-/**
- * CeiValidator checks if the attribute value is a valid CEI.
- *
- * @author Guilherme Lessa <gl-lessa@hotmail.com>
- */
 class PisPasepValidator extends DocumentValidator
 {
 
