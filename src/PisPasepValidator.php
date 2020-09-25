@@ -34,7 +34,7 @@ class PisPasepValidator extends DocumentValidator
 
             $dv = (11 - ($sum % 11));
             $dv = ($dv === 10 || $dv === 11) ? 0 : $dv;
-            return $valid = ($pisPasep[10] == $dv);
+            $valid = ($pisPasep[10] == $dv);
         }
 
         return ($valid) ? [] : [$this->message, []];
