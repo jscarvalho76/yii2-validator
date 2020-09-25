@@ -21,14 +21,6 @@ or you can include the following in your composer.json file:
             "jeffersoncarvalho/validator": "~1.0"
         }
     }
-
-or you can include the following in your composer.json file:
-
-    {
-        "require": {
-             "jeffersoncarvalho/validator": "~1.0"
-        }
-    }
 	
 	
 ## Usage
